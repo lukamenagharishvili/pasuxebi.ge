@@ -1,0 +1,884 @@
+body {
+ background-color:aqua;
+}
+
+.nav-bar {
+ background-color: yellow;
+ padding: 10px 10px 10px 10px
+}
+
+.geo-book {
+ width: 200px;
+ height: 230px;
+ float: left;
+ padding: 10px 20px;
+}
+
+.georgia-book {
+ font-size: 20px;
+}
+
+.author li {
+ list-style: none;
+ font-weight: bold;
+ font-family: cursive;
+}
+
+.content_1 {
+ background-color:#CFFFC2; 
+ border: 2px solid black;
+}
+
+.content {
+ text-align: center;
+ color: #0011FF;
+ font-size: 40px;
+}
+
+.search {
+ font-size: 20px;
+ margin: 0px 40px 0px;
+ border: 1px solid black;
+ border-radius: 10px;
+ width: 350px;
+ height: 30px;
+ padding: 5px;
+}
+
+.content_1 ol li {
+ line-height: 2em;
+ font-weight: bold;
+ font-size: 20px;
+ margin: 10px;
+}
+
+.poem { 
+ background-color: #E5E8FF;
+}
+
+.bio {
+ text-align: center;
+ font-family: cursive;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+ font-size: 30px;
+}
+
+.aleqsandre {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.aleqs {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: cursive;
+ padding: 10px;
+}
+
+.romantizm {
+ text-align: center;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+ font-size: 30px;
+}
+
+.roman {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.rom {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-1 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_1 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-1 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-2 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_2 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-2 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-3 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_3 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-3 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.grigolis-bio {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.grigoli {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.grigolis {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-4 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_4 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-4 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.short-poem {
+ text-align: center;
+ font-weight: bold;
+}
+
+.iarali {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.iarali_1 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.iarali-1 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-5 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_5 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-5 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.nikolozis-bio {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.nikolozis_bio {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.nikolozi {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-6 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_6 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-6 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-7 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_7 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-7 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-8 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_8 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-8 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-9 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_9 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-9 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-10 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_10 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-10 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-11 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_11 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-11 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.saloon {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.saloon-1 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.saloon_1 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-iarali {
+ text-align: center;
+ font-weight: bold;
+}
+
+.geo-theathre {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.geo-theathre1 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.geo-theathre2 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.georges-bio {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.georges-bio1 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.georges_bio1 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.realizm {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.realizm1 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.realizm-1 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.letters {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.letters-1 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.letters_1 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-12 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.poem_12 {
+ width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.poema-12 {
+ font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.man-people1 {
+ text-align: center;
+ font-size: 30px;
+ font-family: arial;
+ padding: 100px;
+ border: 2px solid black;
+ border-radius: 15px;
+ background-color:#B3BBFF ;
+}
+
+.man-people2 {
+  width:300px;
+ float: left;
+ border: 5px ridge yellow;
+ margin: 0px 1px;
+}
+
+.man-people3 {
+  font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.otaraant-qvrivi {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+}
+
+.otaraant-qvrivi1 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+}
+
+.otaraant-qvrivi2 {
+  font-size: 20px;
+ line-height: 1.5em;
+ border: 1px solid black;
+ font-family: arial;
+ padding: 10px;
+}
+
+.poem-13 {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+ }
+ 
+ .poem_13 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+ }
+ 
+ .poema-13 {
+  font-size: 20px;
+  line-height: 1.5em;
+  border: 1px solid black;
+  font-family: arial;
+  padding: 10px;
+ }
+
+ .poem-14 {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+ }
+ 
+ .poem_14 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+ }
+ 
+ .poema-14 {
+  font-size: 20px;
+  line-height: 1.5em;
+  border: 1px solid black;
+  font-family: arial;
+  padding: 10px;
+ }
+
+.agmarti {
+  text-align: center;
+  font-weight: bold;
+}
+
+.poem-15 {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+ }
+ 
+ .poem_15 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+ }
+ 
+ .poema-15 {
+  font-size: 20px;
+  line-height: 1.5em;
+  border: 1px solid black;
+  font-family: arial;
+  padding: 10px;
+ }
+
+ .vajha-fshavela {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+ }
+
+.vajha-fshavela1 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+}
+
+.vajha-fshavela2 {
+  font-size: 20px;
+  line-height: 1.5em;
+  border: 1px solid black;
+  font-family: arial;
+  padding: 10px;
+}
+
+.poem-16 {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+ }
+ 
+ .poem_16 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+ }
+ 
+ .poema-16 {
+  font-size: 20px;
+  line-height: 1.5em;
+  border: 1px solid black;
+  font-family: arial;
+  padding: 10px;
+ }
+
+.game {
+  text-align: center;
+  font-weight: bold;
+  margin: 30px;
+}
+
+.poem-17 {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+ }
+ 
+ .poem_17 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+ }
+ 
+ .poema-17 {
+  font-size: 20px;
+  line-height: 1.5em;
+  border: 1px solid black;
+  font-family: arial;
+  padding: 10px;
+ }
+
+.yesterday {
+  text-align: center;
+  font-weight: bold;
+  padding: 200px;
+}
+
+.poem-18 {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+ }
+ 
+ .poem_18 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+ }
+ 
+ .poema-18 {
+  font-size: 20px;
+  line-height: 1.5em;
+  border: 1px solid black;
+  font-family: arial;
+  padding: 10px;
+ }
+
+ .poem-19 {
+  text-align: center;
+  font-size: 30px;
+  font-family: arial;
+  padding: 100px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color:#B3BBFF ;
+ }
+ 
+ .poem_19 {
+  width:300px;
+  float: left;
+  border: 5px ridge yellow;
+  margin: 0px 1px;
+ }
+ 
+ .poema-19 {
+  font-size: 20px;
+  line-height: 1.5em;
+  border: 1px solid black;
+  font-family: arial;
+  padding: 10px;
+ }
